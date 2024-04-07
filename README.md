@@ -1,7 +1,9 @@
 # Nuxt 3 TailwindCSS DaisyUI Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+
 Look at the [TailwindCSS documentation](https://tailwindcss.com/docs/installation) to learn more.
+
 Look at the [DaisyUI documentation](https://daisyui.com/docs/install/) to learn more.
 
 ## Setup
